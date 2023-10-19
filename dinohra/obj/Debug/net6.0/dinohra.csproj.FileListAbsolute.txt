@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.AssemblyInfo.cs
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\dinohra\dinohra\bin\Debug\net6.0\dinohra.exe
+C:\Users\jacob\source\repos\dinohra\dinohra\bin\Debug\net6.0\dinohra.deps.json
+C:\Users\jacob\source\repos\dinohra\dinohra\bin\Debug\net6.0\dinohra.runtimeconfig.json
+C:\Users\jacob\source\repos\dinohra\dinohra\bin\Debug\net6.0\dinohra.dll
+C:\Users\jacob\source\repos\dinohra\dinohra\bin\Debug\net6.0\dinohra.pdb
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.dll
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\refint\dinohra.dll
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.pdb
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\dinohra.genruntimeconfig.cache
+C:\Users\jacob\source\repos\dinohra\dinohra\obj\Debug\net6.0\ref\dinohra.dll
